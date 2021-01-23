@@ -1,0 +1,691 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vadd_tb
+Z0 !s110 1572996004
+!i10b 1
+!s100 QW:olBQ;Md6C0ZIDkB=HJ2
+IARjoXej:VVfC[@z?O<RP21
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/MY-PC/Desktop/Lab 8 working directory
+Z3 w1572919191
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/add_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/add_tb.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1572996004.000000
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/add_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/add_tb.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 S]XPBzVC`;9hK[VTOVY=U3
+IEUC1oMCcW@4Oe?^BgNgWi3
+R1
+R2
+R3
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu.v
+L0 26
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vALU_tb
+R0
+!i10b 1
+!s100 0h=?EX0>BQ0C9Ud`lDNR[3
+I?Q2AKV<hW?kG6<WU7UW[@0
+R1
+R2
+R3
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu_tb.v
+L0 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu_tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_tb
+vand_tb
+R0
+!i10b 1
+!s100 <P^JVUT?zV[`Y82zL38502
+I1nHmXQUbkj2Q<5=l;2bL`0
+R1
+R2
+R3
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/and_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/and_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/and_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/and_tb.v|
+!i113 1
+R6
+R7
+vcmp_tb
+R0
+!i10b 1
+!s100 UK7f3zH]6m6WN5SFjXDbE0
+I46YTWiDGmGKUBS9^A2K_T0
+R1
+R2
+R3
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cmp_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cmp_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cmp_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cmp_tb.v|
+!i113 1
+R6
+R7
+vCounter2
+R0
+!i10b 1
+!s100 ^C7OXEfhcQ1<eOAWJ?5P73
+Ik6OTR2BHgjKLCz^E8]lcV2
+R1
+R2
+Z8 w1572920613
+Z9 8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu.v
+Z10 FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu.v
+L0 168
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu.v|
+!i113 1
+R6
+R7
+n@counter2
+vcpu
+R0
+!i10b 1
+!s100 zNfkZLQ?e=T@_S_:kIJQc1
+I?CEK^>4j`BIZo38M31<i31
+R1
+R2
+R8
+R9
+R10
+L0 10
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
+vcpu_tb
+R0
+!i10b 1
+!s100 cJJlCc9^DlmkI:Y=MSD[61
+Ih1[MQgY8flbd9Xg1CZ@]02
+R1
+R2
+R3
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu_tb.v
+L0 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu_tb.v|
+!i113 1
+R6
+R7
+vdatapath
+R0
+!i10b 1
+!s100 ;;@d[X=ARE7AbWNQdlNaZ0
+IkoJVImo`G]>=DDP00n60l0
+R1
+R2
+R3
+Z13 8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath.v
+Z14 FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath.v
+Z15 L0 19
+R4
+r1
+!s85 0
+31
+R5
+Z16 !s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath.v|
+!i113 1
+R6
+R7
+vdatapath_tb
+R0
+!i10b 1
+!s100 oOOl4?mzQ4`154A51flBG1
+Im7PD3gjTOg0gQHcJhjbIZ0
+R1
+R2
+R3
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath_tb.v
+L0 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath_tb.v|
+!i113 1
+R6
+R7
+vdecoder
+Z18 !s110 1572996005
+!i10b 1
+!s100 k@:Gi`b]<PG=K3loe=;IA0
+IeJOdQX7CN?KVHeM2=n2P02
+R1
+R2
+Z19 w1572919192
+Z20 8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile.v
+Z21 FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile.v
+L0 84
+R4
+r1
+!s85 0
+31
+Z22 !s108 1572996005.000000
+Z23 !s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile.v|
+Z24 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile.v|
+!i113 1
+R6
+R7
+vinstructiondecoder
+R0
+!i10b 1
+!s100 z0f1`QZ2I;3f7ld:<kYT<1
+IfAa]HDlFhb<mR@3B8Ne7B3
+R1
+R2
+R3
+Z25 8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/instructiondecoder.v
+Z26 FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/instructiondecoder.v
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+Z27 !s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/instructiondecoder.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/instructiondecoder.v|
+!i113 1
+R6
+R7
+vlab8_check_tb
+R18
+!i10b 1
+!s100 f7SHIXQSI1il1L?::d=1L3
+IWl@3<R<NJ6]:ea5I3^Ddm2
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_autograder_check.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_autograder_check.v
+L0 1
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_autograder_check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_autograder_check.v|
+!i113 1
+R6
+R7
+vlab8_stage2_tb
+R18
+!i10b 1
+!s100 F6b2JmIG4^m=H?S0;EMPQ3
+INGI_6]5NPfO<?cTdkSO@<2
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v|
+!i113 1
+R6
+R7
+vlab8_top
+R18
+!i10b 1
+!s100 XD_3OhkcXYHoJOo40OHJB2
+IDcA?^ZcfI>RRzj@Cc]9on0
+R1
+R2
+R19
+Z29 8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_top.v
+Z30 FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_top.v
+L0 6
+R4
+r1
+!s85 0
+31
+R22
+Z31 !s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_top.v|
+Z32 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_top.v|
+!i113 1
+R6
+R7
+vmodifiedmux
+R0
+!i10b 1
+!s100 <mO3X:Mm@jBY9[cO0YiCB0
+Ii>kOB99SnBXe6A2?9oDE02
+R1
+R2
+R3
+R13
+R14
+L0 139
+R4
+r1
+!s85 0
+31
+R5
+R16
+R17
+!i113 1
+R6
+R7
+vmodifiedmuxid
+R0
+!i10b 1
+!s100 VNm0k98X17YSRjO@2nM?X3
+I:HYhY1ci^dGM]zH4=AGFl3
+R1
+R2
+R3
+R25
+R26
+L0 59
+R4
+r1
+!s85 0
+31
+R5
+R27
+R28
+!i113 1
+R6
+R7
+vmodifiedvDFFEx
+R0
+!i10b 1
+!s100 8KIf75j`2aZ^@WLS;9>[_3
+IY6kMH`8Zfb;=F45S68;X91
+R1
+R2
+R3
+R13
+R14
+L0 159
+R4
+r1
+!s85 0
+31
+R5
+R16
+R17
+!i113 1
+R6
+R7
+nmodifiedv@d@f@f@ex
+vmovshift_tb
+R18
+!i10b 1
+!s100 FkOE>bgd[8OT^UJY:M8KN1
+IkGGUNT`9SaX`5md^ZlYi:3
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movshift_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movshift_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movshift_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movshift_tb.v|
+!i113 1
+R6
+R7
+vmovsign_tb
+R18
+!i10b 1
+!s100 KmS3WW1Zj4nLVGjgmJHfY1
+Ie83CS^4db8GG2X]Uj3Dnc0
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movsign_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movsign_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movsign_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movsign_tb.v|
+!i113 1
+R6
+R7
+vMux3a
+R0
+!i10b 1
+!s100 GIS[ZC]K88goLJB9?LKS20
+Iim1F?RU1n[o8?GeO6ENOI0
+R1
+R2
+R3
+R13
+R14
+L0 122
+R4
+r1
+!s85 0
+31
+R5
+R16
+R17
+!i113 1
+R6
+R7
+n@mux3a
+vMux8a
+R18
+!i10b 1
+!s100 6lGf@_=0IWQ<oQV]8c[ia3
+IZkdKaf_N1zo_E?VjAc1?B1
+R1
+R2
+R19
+R20
+R21
+L0 95
+R4
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 1
+R6
+R7
+n@mux8a
+vRAM
+R18
+!i10b 1
+!s100 9^XhfPlg@VZefVZ]8nMoJ1
+I=mzXNW0@MoEa:=0ikQ?P20
+R1
+R2
+R19
+R29
+R30
+L0 124
+R4
+r1
+!s85 0
+31
+R22
+R31
+R32
+!i113 1
+R6
+R7
+n@r@a@m
+vregfile
+R18
+!i10b 1
+!s100 GT06Wbn8lCWfeaE>Q`]E`0
+In<:`3`WDGVd?d6W=`mbN>1
+R1
+R2
+R19
+R20
+R21
+L0 1
+R4
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 1
+R6
+R7
+vregfile_tb
+R18
+!i10b 1
+!s100 jKGTJ1=VPf<oCVBMz9B3Z2
+I=]=Ck4;_oEoBS118P@c^V3
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile_tb.v
+R15
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile_tb.v|
+!i113 1
+R6
+R7
+vshifter
+R18
+!i10b 1
+!s100 j=c^YC0IX=HKVh1fcKFLC2
+I5I^o`YB3lW3n_P4kaJ5kW0
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter.v
+L0 20
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter.v|
+!i113 1
+R6
+R7
+vshifter_tb
+R18
+!i10b 1
+!s100 z[M]dkioa_4c;H]gfI1JL0
+IAN^9ca300[k>`nC5b1@570
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter_tb.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter_tb.v
+L0 41
+R4
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter_tb.v|
+!i113 1
+R6
+R7
+vstatemachine
+R0
+!i10b 1
+!s100 kg6Fm=<d4NRO`I^Wfk0@M1
+I^Un<WIAnP3KX;Y=d<FP7_3
+R1
+R2
+R19
+8C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/statemachine.v
+FC:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/statemachine.v
+L0 64
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/statemachine.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/statemachine.v|
+!i113 1
+R6
+R7
+vtribuff
+R18
+!i10b 1
+!s100 `=RIEalb31H]<0Ykc2jcT3
+IBD9QXCIO6mUSV[8_@aLBN2
+R1
+R2
+R19
+R29
+R30
+L0 104
+R4
+r1
+!s85 0
+31
+R22
+R31
+R32
+!i113 1
+R6
+R7
+vtribufftwo
+R18
+!i10b 1
+!s100 8fge4_eG3XkNH94g>]DNE0
+IPH[mg2F[@Ah`FeQRSXAZY3
+R1
+R2
+R19
+R29
+R30
+L0 114
+R4
+r1
+!s85 0
+31
+R22
+R31
+R32
+!i113 1
+R6
+R7
+vvDFFE
+R18
+!i10b 1
+!s100 BOHha7=Hj_c;Fj;9adgeZ1
+I>RCk@Z;[4U<n7a>z;;6e41
+R1
+R2
+R19
+R20
+R21
+L0 120
+R4
+r1
+!s85 0
+31
+R22
+R23
+R24
+!i113 1
+R6
+R7
+nv@d@f@f@e
+vvDFFEx
+R0
+!i10b 1
+!s100 :6z`Y`iJ[mQISC3MmA9Gb1
+IY<ki0426j<Gjfai=7XI6L3
+R1
+R2
+R3
+R13
+R14
+L0 108
+R4
+r1
+!s85 0
+31
+R5
+R16
+R17
+!i113 1
+R6
+R7
+nv@d@f@f@ex

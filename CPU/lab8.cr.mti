@@ -1,0 +1,173 @@
+{C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_stage2_tb
+
+Top level modules:
+	lab8_stage2_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_autograder_check.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_autograder_check.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_check_tb
+
+Top level modules:
+	lab8_check_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movshift_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movshift_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module movshift_tb
+
+Top level modules:
+	movshift_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/statemachine.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/statemachine.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module statemachine
+
+Top level modules:
+	statemachine
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/add_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/add_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module add_tb
+
+Top level modules:
+	add_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+-- Compiling module vDFFEx
+-- Compiling module Mux3a
+-- Compiling module modifiedmux
+-- Compiling module modifiedvDFFEx
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movsign_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/movsign_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module movsign_tb
+
+Top level modules:
+	movsign_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_top.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_top.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab8_top
+-- Compiling module tribuff
+-- Compiling module tribufftwo
+-- Compiling module RAM
+
+Top level modules:
+	lab8_top
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/shifter_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter_tb
+
+Top level modules:
+	shifter_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/alu.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile_tb
+
+Top level modules:
+	regfile_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/datapath_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath_tb
+
+Top level modules:
+	datapath_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cmp_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cmp_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cmp_tb
+
+Top level modules:
+	cmp_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu_tb
+
+Top level modules:
+	cpu_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/regfile.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+-- Compiling module decoder
+-- Compiling module Mux8a
+-- Compiling module vDFFE
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/and_tb.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/and_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module and_tb
+
+Top level modules:
+	and_tb
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/cpu.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cpu
+-- Compiling module Counter2
+
+Top level modules:
+	cpu
+
+} {} {}} {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/instructiondecoder.v} {2 {vlog -work work -stats=none {C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/instructiondecoder.v}
+** Warning: (vlog-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module instructiondecoder
+-- Compiling module modifiedmuxid
+
+Top level modules:
+	instructiondecoder
+
+} {} {}}

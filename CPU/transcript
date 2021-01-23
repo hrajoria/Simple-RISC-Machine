@@ -1,0 +1,216 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf}
+# Loading project lab8
+# Compile of statemachine.v was successful.
+# Compile of add_tb.v was successful.
+# Compile of alu.v was successful.
+# Compile of alu_tb.v was successful.
+# Compile of and_tb.v was successful.
+# Compile of cmp_tb.v was successful.
+# Compile of cpu.v was successful.
+# Compile of cpu_tb.v was successful.
+# Compile of datapath.v was successful.
+# Compile of datapath_tb.v was successful.
+# Compile of instructiondecoder.v was successful.
+# Compile of lab8_autograder_check.v was successful.
+# Compile of lab8_stage2_tb.v was successful.
+# Compile of lab8_top.v was successful.
+# Compile of movshift_tb.v was successful.
+# Compile of movsign_tb.v was successful.
+# Compile of regfile.v was successful.
+# Compile of regfile_tb.v was successful.
+# Compile of shifter.v was successful.
+vsim -gui work.lab8_stage2_tb
+# vsim -gui work.lab8_stage2_tb 
+# Start time: 15:16:57 on Nov 05,2019
+# Loading work.lab8_stage2_tb
+# Loading work.lab8_top
+# Loading work.RAM
+# Loading work.tribuff
+# Loading work.cpu
+# Loading work.vDFFE
+# Loading work.instructiondecoder
+# Loading work.modifiedmuxid
+# Loading work.statemachine
+# Loading work.datapath
+# Loading work.modifiedmux
+# Loading work.regfile
+# Loading work.decoder
+# Loading work.Mux8a
+# Loading work.vDFFEx
+# Loading work.Mux3a
+# Loading work.shifter
+# Loading work.ALU
+# Loading work.modifiedvDFFEx
+# Loading work.Counter2
+# Loading work.tribufftwo
+# Compile of shifter_tb.v was successful.
+# 20 compiles, 0 failed with no errors.
+add wave -position insertpoint  \
+sim:/lab8_stage2_tb/DUT/KEY \
+sim:/lab8_stage2_tb/DUT/SW \
+sim:/lab8_stage2_tb/DUT/LEDR \
+sim:/lab8_stage2_tb/DUT/HEX0 \
+sim:/lab8_stage2_tb/DUT/HEX1 \
+sim:/lab8_stage2_tb/DUT/HEX2 \
+sim:/lab8_stage2_tb/DUT/HEX3 \
+sim:/lab8_stage2_tb/DUT/HEX4 \
+sim:/lab8_stage2_tb/DUT/HEX5 \
+sim:/lab8_stage2_tb/DUT/CLOCK_50 \
+sim:/lab8_stage2_tb/DUT/Z \
+sim:/lab8_stage2_tb/DUT/N \
+sim:/lab8_stage2_tb/DUT/V \
+sim:/lab8_stage2_tb/DUT/datapath_out \
+sim:/lab8_stage2_tb/DUT/read_data \
+sim:/lab8_stage2_tb/DUT/read_address \
+sim:/lab8_stage2_tb/DUT/write_address \
+sim:/lab8_stage2_tb/DUT/writemem \
+sim:/lab8_stage2_tb/DUT/enabletridriv \
+sim:/lab8_stage2_tb/DUT/din \
+sim:/lab8_stage2_tb/DUT/dout \
+sim:/lab8_stage2_tb/DUT/msel \
+sim:/lab8_stage2_tb/DUT/mem_addr \
+sim:/lab8_stage2_tb/DUT/m_cmd \
+sim:/lab8_stage2_tb/DUT/write_data \
+sim:/lab8_stage2_tb/DUT/HALT \
+sim:/lab8_stage2_tb/DUT/hexin \
+sim:/lab8_stage2_tb/DUT/hexout \
+sim:/lab8_stage2_tb/DUT/enabletridrivone \
+sim:/lab8_stage2_tb/DUT/switchesout \
+sim:/lab8_stage2_tb/DUT/loadledreg
+add wave -position insertpoint  \
+sim:/lab8_stage2_tb/DUT/KEY \
+sim:/lab8_stage2_tb/DUT/SW \
+sim:/lab8_stage2_tb/DUT/LEDR \
+sim:/lab8_stage2_tb/DUT/HEX0 \
+sim:/lab8_stage2_tb/DUT/HEX1 \
+sim:/lab8_stage2_tb/DUT/HEX2 \
+sim:/lab8_stage2_tb/DUT/HEX3 \
+sim:/lab8_stage2_tb/DUT/HEX4 \
+sim:/lab8_stage2_tb/DUT/HEX5 \
+sim:/lab8_stage2_tb/DUT/CLOCK_50 \
+sim:/lab8_stage2_tb/DUT/Z \
+sim:/lab8_stage2_tb/DUT/N \
+sim:/lab8_stage2_tb/DUT/V \
+sim:/lab8_stage2_tb/DUT/datapath_out \
+sim:/lab8_stage2_tb/DUT/read_data \
+sim:/lab8_stage2_tb/DUT/read_address \
+sim:/lab8_stage2_tb/DUT/write_address \
+sim:/lab8_stage2_tb/DUT/writemem \
+sim:/lab8_stage2_tb/DUT/enabletridriv \
+sim:/lab8_stage2_tb/DUT/din \
+sim:/lab8_stage2_tb/DUT/dout \
+sim:/lab8_stage2_tb/DUT/msel \
+sim:/lab8_stage2_tb/DUT/mem_addr \
+sim:/lab8_stage2_tb/DUT/m_cmd \
+sim:/lab8_stage2_tb/DUT/write_data \
+sim:/lab8_stage2_tb/DUT/HALT \
+sim:/lab8_stage2_tb/DUT/hexin \
+sim:/lab8_stage2_tb/DUT/hexout \
+sim:/lab8_stage2_tb/DUT/enabletridrivone \
+sim:/lab8_stage2_tb/DUT/switchesout \
+sim:/lab8_stage2_tb/DUT/loadledreg
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "lab7instructionset.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_top.v(138)
+#    Time: 0 ps  Iteration: 0  Instance: /lab8_stage2_tb/DUT/MEM
+# PC = 000
+# PC = 001
+# FAILED: mem[25] wrong
+# ** Note: $stop    : C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v(26)
+#    Time: 60 ps  Iteration: 1  Instance: /lab8_stage2_tb
+# Break in Module lab8_stage2_tb at C:/Users/MY-PC/Desktop/Lab 8 working directory/Lab 8 working directory/lab8_stage2_tb.v line 26
+quit -sim
+# Project file C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf is write protected, data cannot be saved.
+# Unable to save project.
+vsim -gui work.Counter2
+# End time: 15:18:57 on Nov 05,2019, Elapsed time: 0:02:00
+# Errors: 1, Warnings: 1
+# ** Warning: (vsim-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+# vsim -gui work.Counter2 
+# Start time: 15:18:57 on Nov 05,2019
+# ** Error: (vsim-7) Failed to open ini file "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" in read mode.
+# Invalid argument. (errno = EINVAL)
+# Loading work.Counter2
+quit -sim
+# Project file C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# End time: 15:19:14 on Nov 05,2019, Elapsed time: 0:00:17
+# Errors: 2, Warnings: 1
+# Compile of statemachine.v was successful with warnings.
+# Compile of add_tb.v was successful with warnings.
+# Compile of alu.v was successful with warnings.
+# Compile of alu_tb.v was successful with warnings.
+# Compile of and_tb.v was successful with warnings.
+# Compile of cmp_tb.v was successful with warnings.
+# Compile of cpu.v was successful with warnings.
+# Compile of cpu_tb.v was successful with warnings.
+# Compile of datapath.v was successful with warnings.
+# Compile of datapath_tb.v was successful with warnings.
+# Compile of instructiondecoder.v was successful with warnings.
+# Compile of lab8_autograder_check.v was successful with warnings.
+# Compile of lab8_stage2_tb.v was successful with warnings.
+# Compile of lab8_top.v was successful with warnings.
+vsim -gui work.lab8_stage2_tb
+# ** Warning: (vsim-14) Failed to open "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" specified by the MODELSIM environment variable.
+# vsim -gui work.lab8_stage2_tb 
+# Start time: 15:19:42 on Nov 05,2019
+# ** Error: (vsim-7) Failed to open ini file "C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf" in read mode.
+# Invalid argument. (errno = EINVAL)
+# Loading work.lab8_stage2_tb
+# Loading work.lab8_top
+# Loading work.RAM
+# Loading work.tribuff
+# Loading work.cpu
+# Loading work.vDFFE
+# Loading work.instructiondecoder
+# Loading work.modifiedmuxid
+# Loading work.statemachine
+# Loading work.datapath
+# Loading work.modifiedmux
+# Loading work.regfile
+# Loading work.decoder
+# Loading work.Mux8a
+# Loading work.vDFFEx
+# Loading work.Mux3a
+# Loading work.shifter
+# Loading work.ALU
+# Loading work.modifiedvDFFEx
+# Loading work.Counter2
+# Loading work.tribufftwo
+# Compile of movshift_tb.v was successful with warnings.
+# Compile of movsign_tb.v was successful with warnings.
+# Compile of regfile.v was successful with warnings.
+# Compile of regfile_tb.v was successful with warnings.
+# Compile of shifter.v was successful with warnings.
+# Compile of shifter_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors.
+# Project file C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# Compile of statemachine.v was successful with warnings.
+# Compile of add_tb.v was successful with warnings.
+# Compile of alu.v was successful with warnings.
+# Compile of alu_tb.v was successful with warnings.
+# Compile of and_tb.v was successful with warnings.
+# Compile of cmp_tb.v was successful with warnings.
+# Compile of cpu.v was successful with warnings.
+# Compile of cpu_tb.v was successful with warnings.
+# Compile of datapath.v was successful with warnings.
+# Compile of datapath_tb.v was successful with warnings.
+# Compile of instructiondecoder.v was successful with warnings.
+# Compile of lab8_autograder_check.v was successful with warnings.
+# Compile of lab8_stage2_tb.v was successful with warnings.
+# Compile of lab8_top.v was successful with warnings.
+# Compile of movshift_tb.v was successful with warnings.
+# Compile of movsign_tb.v was successful with warnings.
+# Compile of regfile.v was successful with warnings.
+# Compile of regfile_tb.v was successful with warnings.
+# Compile of shifter.v was successful with warnings.
+# Compile of shifter_tb.v was successful with warnings.
+# 20 compiles, 0 failed with no errors.
+# Project file C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# Project file C:/Users/MY-PC/Desktop/Lab 8 working directory/lab8.mpf is write protected, data cannot be saved.
+# Unable to save project.
+# End time: 15:20:25 on Nov 05,2019, Elapsed time: 0:00:43
+# Errors: 4, Warnings: 1
